@@ -43,7 +43,7 @@ const theme = ref({
         dark:p-text:text-primary dark:enabled:hover:p-text:text-primary dark:enabled:active:p-text:text-primary
     `,
     loadingIcon: ``,
-    icon: `p-right:order-1 p-bottom:order-2`,
+    icon: `p-right:order-1 p-bottom:order-2 aspect-square`,
     label: `font-medium p-icon-only:invisible p-icon-only:w-0
         p-small:text-sm p-large:text-[1.125rem]`,
     pcBadge: {
